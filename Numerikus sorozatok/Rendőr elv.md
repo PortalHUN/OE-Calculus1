@@ -1,0 +1,2 @@
+Ha $\forall n \in \mathbb{Z^+}$ esetén $a_n \leq b_n \leq c_n$, $a_b$ és $c_n$ konvergens, továbbá $\displaystyle \lim_{n \to \infty}a_n = \lim_{n \to \infty}c_n = A$, akkor $b_n$ is konvergens és $\displaystyle \lim_{n \to \infty}b_n = A$.  
+Azaz, ha az $a_n$ és $c_n$  konvergens és határértéke egyenlő, majd közrefogja a $b_n$-t, akkor a $b_n$ is konvergens és határértéke egyenlő $a_n$ és $c_n$ határértékével. 
