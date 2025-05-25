@@ -2,8 +2,8 @@ Def: Olyan függvények, amelyeknek értelmezési tartománya a pozitív egész 
 
 Jelölése: $a_n$
 
-[[Korlátosság]]
-[[Monotonitás]]
+[[Numerikus sorozatok/Korlátosság]]
+[[Numerikus sorozatok/Monotonitás]]
 [[Konvergenciája]]
 [[Részsorozat]]
 [[Bolzano-Weierstrass tétel]]
